@@ -1,2 +1,1 @@
-# Exercicios
-Exercícios diversos separados por branchs
+# Para rodar, basta executar a classe Program
